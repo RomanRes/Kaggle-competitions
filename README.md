@@ -1,18 +1,24 @@
 # Kaggle-competitions-
 Kaggle competitions 
 
-https://www.kaggle.com/competitions/playground-series-s3e5
-Playground Series - Season 3, Episode 5
+1. Playground Series - Season 3, Episode 5 ( <a href="https://www.kaggle.com/competitions/playground-series-s3e5"> Link </a> )
+
 https://www.kaggle.com/code/romanresner/pss-3-e5-first
 
-https://www.kaggle.com/competitions/petfinder-pawpularity-score
-Pawpularity Contest: Keras + EfficientNetB6
+
+2. PetFinder.my - Pawpularity Contest ( <a href="https://www.kaggle.com/competitions/petfinder-pawpularity-score"> Link </a> )
+
 https://www.kaggle.com/code/romanresner/pawpularity-contest-keras-efficientnetb6
 
-Cat and Dog classification EfficientNetB0
-Dogs vs. Cats Redux: Kernels Edition
+
+3. Dogs vs. Cats Redux: Kernels Edition ( <a href="https://www.kaggle.com/competitions/dogs-vs-cats-redux-kernels-edition"> Link </a> )
+
 https://www.kaggle.com/code/romanresner/cat-and-dog-classification-efficientnetb0
 
-https://www.kaggle.com/competitions/titanic
-Titanic - Machine Learning from Disaster
+4. Playground Series - Season 3, Episode 5 ( <a href="https://www.kaggle.com/competitions/titanic"> Link </a> )
+
 https://www.kaggle.com/code/romanresner/titanic-randomforestclassifier
+
+
+
+
